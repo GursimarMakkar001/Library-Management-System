@@ -1,0 +1,9 @@
+1,Rich Dad Poor Dad,Robert Kiyosaki
+2,Be Useful,Arnold Schwarzenegger
+3,The Lean Startup,Eric Ries
+4,Atomic Habits,James Clear
+5,The Hard Thing about Hard Things,Ben Horowitz
+6,The Art of Exceptional Living,Jim Rohn
+7,The Millionaire Next Door,Thomas J. Stanley
+8,Khalistan,Manpreet bedi
+9,Sant Bhindran Wala,Akhil Singh
